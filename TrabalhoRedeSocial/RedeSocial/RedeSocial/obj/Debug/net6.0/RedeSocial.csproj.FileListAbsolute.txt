@@ -1,0 +1,15 @@
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\bin\Debug\net6.0\RedeSocial.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\bin\Debug\net6.0\RedeSocial.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\bin\Debug\net6.0\RedeSocial.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\bin\Debug\net6.0\RedeSocial.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\bin\Debug\net6.0\RedeSocial.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\refint\RedeSocial.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\RedeSocial.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoRedeSocial\RedeSocial\RedeSocial\obj\Debug\net6.0\ref\RedeSocial.dll
